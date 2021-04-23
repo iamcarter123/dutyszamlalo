@@ -1,2 +1,2 @@
 # dutyszamlalo
-Dutyperc számláló by Carter
+Dutyperc számláló különböző funkciókkal, nagyon alap.
