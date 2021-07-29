@@ -1,7 +1,7 @@
 <?php
 require("/var/www/html/phpmailer/index.php");
 require("/var/www/html/admin/assets/regtext.php");
-//asd
+//asdasdasd
 ?>
 <!doctype html>
 <html lang="en">
